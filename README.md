@@ -20,11 +20,12 @@ To use the code, follow these steps:
 
 Example:
 
-`python
+```python
 # Define the binary tree
 root = TreeNode(1)
 root.right = TreeNode(2)
 # Add more nodes as needed...
+```
 
 # Set nodes A and B
 node_A = root.right.right.right.right.right
